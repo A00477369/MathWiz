@@ -6,3 +6,11 @@ Public int addition(int a, int b){
 	return a+b;
 
 }
+
+#A00474480
+
+Public int subtraction(int a, int b){
+
+	return a-b;
+
+}
