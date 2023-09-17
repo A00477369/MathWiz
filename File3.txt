@@ -1,9 +1,9 @@
 
-#A00478574
+#A00477369
 
-Public int power(int a, int b){
+Public int max(int a, int b){
 	
-	return Math.Pow(a,b);
+	return Math.max(a,b);
 
 }
 
