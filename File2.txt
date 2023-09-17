@@ -6,3 +6,11 @@ Public double division(int a, int b){
 	return a/b;
 
 }
+
+#A00474480
+
+Public int mod(int a, int b){
+
+	return a%b;
+
+}
