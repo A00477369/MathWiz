@@ -14,3 +14,11 @@ Public int mod(int a, int b){
 	return a%b;
 
 }
+
+#A00478574
+
+Public int min(int a, int b){
+	
+	return a + b - Math.max(a,b);
+
+}
