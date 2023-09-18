@@ -14,3 +14,11 @@ Public int subtraction(int a, int b){
 	return a-b;
 
 }
+
+#A00478574
+
+Public int multiplication(int a, int b){
+	
+	return a*b;
+
+}
